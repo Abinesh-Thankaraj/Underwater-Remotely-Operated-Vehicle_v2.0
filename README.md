@@ -25,7 +25,7 @@ This project addresses real-world humanitarian needs and supports multiple **Uni
 
 ## 🏆 Achievements
 
-- 🥇 **Winners – IEEE R10 Robotics Competition (Tokyo, Japan)**  
+- 🥇 **Winners – IEEE R10 International Robotics Competition (Tokyo, Japan)**  
   Presented the ROV v2.0 designed for search and rescue in turbulent water bodies like the Ganga River.
 
 - 🥈 **Runners-up – PALS innoWAH! 2024, IIT Madras (IITM-PALS)**  
