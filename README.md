@@ -1,6 +1,6 @@
 # 🤖 Underwater Remotely Operated Vehicle v2.0
 
-![ROV Preview](https://github.com/Abinesh-Thankaraj/Underwater-Remotely-Operated-Vehicle_v2.0/assets/your-image-id/rov_render.png)
+![ROV Preview](rov_preview.webp)
 
 A compact and efficient **Underwater Remotely Operated Vehicle (ROV)** designed for search and rescue missions in turbulent water bodies like the Ganga River. This system combines real-time video monitoring and intelligent object detection to support underwater navigation and victim identification.
 
